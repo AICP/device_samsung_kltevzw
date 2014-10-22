@@ -20,9 +20,9 @@
     "branch":      "kitkat"
   },
   {
-    "repository":  "CyanogenMod/android_kernel_samsung_klte",
+    "repository":  "LiquidSmooth-Devices/android_kernel_samsung_klte",
     "target_path": "kernel/samsung/klte",
-    "branch":      "cm-11.0"
+    "branch":      "kitkat"
   },
   {
     "repository":  "CyanogenMod/android_hardware_qcom_display-caf-new",
