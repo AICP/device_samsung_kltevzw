@@ -1,8 +1,8 @@
 [
   {
-    "repository":  "AICP/device_qcom_common",
+    "repository":  "CyanogenMod/android_device_qcom_common",
     "target_path": "device/qcom/common",
-    "branch":      "lp5.0"
+    "branch":      "cm-12.0"
   },
   {
     "repository":  "AICP/device_samsung_qcom-common",
